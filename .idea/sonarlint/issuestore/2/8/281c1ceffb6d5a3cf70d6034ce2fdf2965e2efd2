@@ -1,0 +1,6 @@
+
+o
+java:S1104"ZMake urlGetRequest1 a static final constant or non-public and provide accessors if needed.(¤ÓóD
+p
+java:S1104"ZMake urlGetRequest2 a static final constant or non-public and provide accessors if needed.(ÑÏÍ­
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤úÄ¢
